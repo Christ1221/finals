@@ -73,6 +73,13 @@ tr:hover {
   border-radius: 20px;
   font-size: 13px;
 }
+.available_yellow {
+  background-color: #ff9d2b;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 13px;
+}
 .sidebar.logo {
   display: flex;
   flex-direction: column; /* Make image stack above the text */
